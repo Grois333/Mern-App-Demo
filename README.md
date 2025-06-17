@@ -62,7 +62,7 @@ A full-featured Book Store application built with the MERN stack (MongoDB, Expre
 | **Uploads**  | Local storage served via Express     |
 
 
-## Screensts:
+## Screenshots:
 
 ### Landing Page:
 ![landing]()
